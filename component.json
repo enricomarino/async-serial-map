@@ -1,0 +1,9 @@
+{
+  "name": "async-map-series",
+  "repo": "enricomarino/async-map-series",
+  "version": "0.0.1",
+  "description": "async map series",
+  "keywords": ["async", "map", "series"],
+  "scripts": ["index.js"],
+  "license": "MIT"
+}
